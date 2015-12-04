@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:               Gerald
 tagline:             'elearning resources online'
-description:         'Master of Counselling'
+description:         'mobile elearning'
 url:                 http://gerald.io
 baseurl:             /
 paginate:            5
