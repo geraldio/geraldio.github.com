@@ -8,9 +8,9 @@ relative_permalinks: true
 
 # Setup
 title:               Gerald
-tagline:             'counselling and elearning resources online wellington'
+tagline:             'elearning resources online'
 description:         'Master of Counselling'
-url:                 http://gerald.nz
+url:                 http://gerald.io
 baseurl:             /
 paginate:            5
 
